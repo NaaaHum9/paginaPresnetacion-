@@ -1,0 +1,24 @@
+.contenedor{
+    text-align: center;
+    background-color: black;
+}
+
+.Titulo{
+    color: rgb(108, 45, 166);
+    background-color: rgb(222, 157, 231);
+    display: inline-block;
+}
+
+
+.piePagina{
+    background-color: black;
+}
+
+.divVideo{
+    text-align: center;
+}
+
+.divText{
+    color: white;
+    text-align: right;
+}
