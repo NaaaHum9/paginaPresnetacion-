@@ -1,24 +1,30 @@
+body{
+    background: linear-gradient( #DCE4F9, #B0C2F2);
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 275;
+    font-style: normal;
+}
+
 .contenedor{
-    text-align: center;
-    background-color: black;
+    display: flex;
+    align-items: center;
+    width: 80%;
+    margin: 0 auto;
 }
 
-.Titulo{
-    color: rgb(108, 45, 166);
-    background-color: rgb(222, 157, 231);
-    display: inline-block;
-}
-
-
-.piePagina{
-    background-color: black;
-}
-
-.divVideo{
+.titulos{
+    font-weight: blod;
     text-align: center;
 }
 
-.divText{
-    color: white;
-    text-align: right;
+.imagenGato{
+    width: 100px;
+    border: 2px solid blue;
+    border-radius: 10%;
+}
+
+.conetenedorParrafo{
+    text-align: justify;
+    padding-left: 10px;
 }
