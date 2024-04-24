@@ -28,3 +28,18 @@ body{
     text-align: justify;
     padding-left: 10px;
 }
+
+.divPortafolio p{
+    margin-right: 10px;
+}
+
+.divPortafolio{
+    display: flex;
+    align-items: center;
+}
+
+.imagenGit{
+    width: 10%;
+    border: 2px solid black;
+    border-radius: 10px;
+}
